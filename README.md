@@ -1,4 +1,4 @@
-##### jassoo täällä sitä nyt on tekstiä
+##### Ohjelmistotekniikan harjoitustyö
 
 on se *git* kyllä **jännä** juttu
 
