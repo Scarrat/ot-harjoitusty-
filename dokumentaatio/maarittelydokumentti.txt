@@ -12,10 +12,9 @@ Pelimekaniikat:
 
 Käyttöliittymä:
 	-Kartta
-
+	-Napit liikkumiseen
 
 <h2>Jatkokehitysideat<h2>
 	-Taistelujärjestelmä?
 	-Pelaajien kommentit?
-	-Oman luolan rakennus?
-	-
+	-mitä nyt keksisi.
