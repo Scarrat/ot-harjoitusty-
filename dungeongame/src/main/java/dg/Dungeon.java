@@ -42,9 +42,26 @@ public class Dungeon {
             }
         }
     }
-    
+
     public int[][] floor() {
-    return this.floor;
+        return this.floor;
+    }
+
+    public void move(int way) {
+        floor[ycoord][xcoord] = -1;
+        if (way == 1) {
+            ycoord -= 1;
+        }
+        if (way == 2) {
+            xcoord += 1;
+        }
+        if (way == 3) {
+            ycoord += 1;
+        }
+        if (way == 4) {
+            xcoord -= 1;
+        }
+        floor[ycoord][xcoord] = 0;
     }
 
 }
