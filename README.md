@@ -5,7 +5,8 @@ Ohjelmasta on tarkoitus tulla luolastopeli, jossa mennään luolassa tutkimassa 
 
 
 ### Dokumentaatio
-[Määrittelydokumentti](https://github.com/Scarrat/ot-harjoitustyo/blob/main/dokumentaatio/maarittelydokumentti.txt)
+[Määrittelydokumentti](https://github.com/Scarrat/ot-harjoitustyo/blob/main/dokumentaatio/maarittelydokumentti.md)
+[Tuntikirjanpito](https://github.com/Scarrat/ot-harjoitustyo/tree/main/dokumentaatio/tuntikirjanpito.md)
 
 
 
