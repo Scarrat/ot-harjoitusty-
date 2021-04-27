@@ -1,10 +1,10 @@
-<h1> Määrittelydokumentti<h1>
+ ***Määrittelydokumentti***
 
-<h2>Sovelluksen tarkoitus<h2>
+****Sovelluksen tarkoitus****
 
 Kyseessä jonkinnäköinen luolastoseikkailupeli. Luolassa on "huoneita" joita pitkin edetään pelissä eteenpäin.
 
-<h2>Perusversion toiminnallisuudet<h2>
+****Perusversion toiminnallisuudet****
 Pelimekaniikat: 
 	-luolassa kulkeminen
 	-Esteet
