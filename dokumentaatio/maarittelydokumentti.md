@@ -6,15 +6,15 @@ Kyseessä jonkinnäköinen luolastoseikkailupeli. Luolassa on "huoneita" joita p
 
 ****Perusversion toiminnallisuudet****
 Pelimekaniikat: 
-	-luolassa kulkeminen
-	-Esteet
-	-Elämät
+	*luolassa kulkeminen
+	*Esteet
+	*Elämät
 
 Käyttöliittymä:
-	-Kartta
-	-Napit liikkumiseen
+	*Kartta
+	*Napit liikkumiseen
 
 ****Jatkokehitysideat****
-	-Taistelujärjestelmä?
-	-Pelaajien kommentit?
-	-mitä nyt keksisi.
+	*Taistelujärjestelmä?
+	*Pelaajien kommentit?
+	*mitä nyt keksisi.
