@@ -1,37 +1,38 @@
-package dg;
-
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package dg;
 
-/**
- *
- * @author kostajoo
- */
-import javafx.application.Application;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
-import static org.junit.jupiter.api.Assertions.*;
-public class dungeonTest {
-   
+
+/**
+ *
+ * @author kostajoo
+ */
+public class playerTest {
+    Player p;
     @Before
     public void setUp() {
-        
+        p = new Player();
     }
     
     @Test
-    public void dungCorrectSize() {
-        
+    public void healthGoDown() {
+        p.healthDown(3);
+        assertEquals(p.getHealth(), 7);
     }
     
     @Test
-    public void dungMovement() {
-        
+    public void healthGoUp() {
+        p.healthDown(3);
+        p.healthUp(2);
+        assertEquals(p.getHealth(), 9);
     }
 }
