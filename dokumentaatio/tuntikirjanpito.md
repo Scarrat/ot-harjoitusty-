@@ -8,4 +8,9 @@
 | 18.4 | 1 | Javafxn kanssa säätöä.
 | 19.4 | 4 | UI luomisyritys, huomasin etten muista javafx:stä mitään. Opettelen uudestaan.
 | 20.4 | 2 | Parin kuvakkeen luominen. UI alotus. Etenee hitaasti muiden töiden vuoksi :|
+| 25.4 | 2 | Peliruutu kasassa. JavaFX jostain syystä lakkasi taas toimimasta.
+| 27.4 | 6 | Liikkuminen toimii. Huonejärjestely kasassa. Koodi sotkussa :D
+
+YHT: 20 Tuntia    
+
 
