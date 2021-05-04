@@ -12,13 +12,5 @@ public class dungeonTest {
         d = new Dungeon();
     }
     
-    @Test
-    public void dungCorrectSize() {
-        assertEquals(d.floor().length, 5);
-    }
-    
-    @Test
-    public void dungMovement() {
-        
-    }
+   
 }
