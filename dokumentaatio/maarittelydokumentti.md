@@ -6,12 +6,12 @@ Kyseessä jonkinnäköinen luolastoseikkailupeli. Luolassa on "huoneita" joita p
 
 ****Perusversion toiminnallisuudet****
 Pelimekaniikat: 
-* Luolassa kulkeminen
-* Ansat
-* Elämät
+* Luolassa kulkeminen/tehty
+* Ansat/tehty
+* Elämät/tehty
 
 Käyttöliittymä:
-* Kartta
+* Kartta/tehty
 * Relevantti tieto
 
 ****Jatkokehitysideat****
